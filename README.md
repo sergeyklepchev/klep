@@ -398,3 +398,4 @@ description = "multidict implementation"
 optional = false
 python-versions = ">=3.7"
 files = [
+}
