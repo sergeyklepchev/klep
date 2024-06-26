@@ -102,7 +102,7 @@ h11 = ">=0.13,<0.15"
 
 [package.extras]
 asyncio = ["anyio (>=4.0,<5.0)"]
-http2 = ["h2 (>=3,<5)"]
+http2 = ["h2 (>=3,<6)"]
 socks = ["socksio (==1.*)"]
 trio = ["trio (>=0.22.0,<0.23.0)"]
 
